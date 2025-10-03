@@ -52,4 +52,26 @@ Este projeto serve como:
 - CapCut - Edição de Vídeo
 - YouTube - Hospedagem e Distribuição
 
+  ## 📁 Estrutura do Repositório
+
+Este projeto documenta a criação completa de um podcast, desde a idealização até a edição final do vídeo. Abaixo está o guia de cada arquivo, que representa uma etapa do processo:
+
+- **`README.md`** *(Este arquivo)*
+  - Visão geral e introdução ao projeto.
+
+- **`PODCAST.md`**
+  - Contém o link para o **vídeo final no YouTube** onde o podcast foi publicado.
+
+- **`Diálogo com o ChatGPT Criação de Podcast.md`**
+  - Documenta todo o processo de **idealização e criação do roteiro** através de prompts e diálogos com a IA.
+
+- **`Criação do Podcast Usando ElevenLabs.md`**
+  - Explica como a **síntese de voz** foi utilizada para transformar o roteiro em um arquivo de áudio de alta qualidade.
+
+- **`Geração de Capa de Podcast com Gemini.md`**
+  - Detalha a **criação da arte visual** (capa) do podcast usando um modelo de IA generativa.
+
+- **`Edição do Podcast no CapCut.md`**
+  - Descreve o processo final de **edição de vídeo**, unindo o áudio gerado e a capa criada para produzir o vídeo completo.
+
 Este projeto é um exemplo do poder de integração entre diferentes modelos de IA para a criação de conteúdo multimídia de forma ágil e inovadora.
